@@ -1,0 +1,10 @@
+{
+  "name": "Pedometer & GPS Tracker",
+  "description": "A running app featuring pedometer step counting, live GPS route tracking, run metrics analysis, and customizable social media share templates.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
